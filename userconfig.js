@@ -94,7 +94,7 @@ const default_config = {
       ],
     },
     {
-      name: "dev",
+      name: "midnight",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
         {
