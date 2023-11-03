@@ -256,13 +256,4 @@ const default_config = {
               url: "https://tv.kyivstar.ua",
               icon: "star-filled",
               icon_color: "#ed8796",
-            },
-          ],
-        },
-      ],
-    },
-  ],
-};
-
-const CONFIG = new Config(saved_config ?? default_config);
-// const CONFIG = new Config(default_config);
+    www.galj.com
