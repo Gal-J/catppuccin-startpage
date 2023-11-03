@@ -25,7 +25,7 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
+      name: "me",
       background_url: "src/img/banners/cbg-9.gif",
       categories: [
         {
